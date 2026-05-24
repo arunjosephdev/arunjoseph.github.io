@@ -1,0 +1,50 @@
+ARUN JOSEPH
+Bengaluru, India | +91 9778467783 | mailmjarun@gmail.com 
+LinkedIn: linkedin.com/in/arun-joseph-09a69080/
+
+PROFESSIONAL SUMMARY
+Highly accomplished Staff Embedded Software Engineer with 8+ years of expertise spanning low-level MCAL automotive driver development, RISC-V and AURIX microcontrollers, and user-mode graphics drivers (UMD). Proven track record at tier-1 silicon and automotive firms (Infineon, Qualcomm, KPIT) designing safety-critical systems in compliance with ASPICE frameworks. Expert in hard real-time architectures, Virtual Prototype (VP) testing, and building production-grade supporting libraries for complex AUTOSAR and non-AUTOSAR environments.
+
+CORE TECHNICAL SKILLS
+* Architecture & Platforms: RISC-V Architecture, Infineon AURIX 2G / Next-Gen, Adreno GPU, RTOS
+* Automotive Standards: ASPICE, AUTOSAR Classic, MCAL, MISRA C, Klocwork, Polyspace
+* Firmware & Toolchains: Embedded C, C++, EB Tresos, Vector DaVinci, Tessy, Git/Gerrit, Jenkins
+* Verification: Virtual Prototype (VP) Testing, Static Code Analysis, Code Generation Validation
+
+PROFESSIONAL EXPERIENCE
+
+Infineon Technologies
+Staff Software Engineer – Automotive Silicon Software (March 2025 – Present)
+* Spearheaded the end-to-end design, development, and alpha release of a critical non-AUTOSAR "Trigger Infrastructure" module for next-generation RISC-V AURIX microcontrollers.
+* Implemented the entire software development lifecycle in strict alignment with ASPICE compliance frameworks.
+* Executed comprehensive verification matrices, including MISRA C static code analysis, complex code generation verification, and execution validation on Virtual Prototypes (VP).
+* Assumed ownership of the BTM (Base Timer Module), architecting and refining it to be delivered as a core supporting framework library for broader AUTOSAR stacks.
+
+KPIT Technologies
+Senior Tech Lead – Embedded Systems (June 2023 – February 2025)
+* Led engineering teams through the architecture, configuration, and code delivery of AUTOSAR-compliant MCAL CAN drivers for flagship automotive OEMs.
+* Authored detailed low-level designs (LLD) and enforced strict MISRA C guidelines to guarantee high-reliability firmware execution.
+* Maximized quality benchmarks by executing code generation testing pipelines using Vector DaVinci Configurator.
+
+Qualcomm 
+Software Engineer – Graphics User Mode Driver (August 2019 – July 2022)
+* Developed and optimized DirectX 11 (DX11) User Mode Drivers (UMD) in C++ for premium Snapdragon/Adreno GPU architectures.
+* Root-caused and engineered mitigation hooks for intricate low-level user-to-kernel space memory corruption bugs.
+* Utilized DXCap and 3DMark to conduct deep performance profiling, systematically lowering driver frame-rate latency.
+
+Infineon Technologies
+Embedded Systems Engineer / Consultant (June 2017 – August 2019)
+* Programmed production-ready MCAL peripheral drivers (SENT, IRQ, UART) in Embedded C for multi-core AURIX 2G platforms.
+* Maintained 100% test coverage using TESSY for unit testing and Polyspace for deep runtime safety analysis.
+
+EDUCATION
+
+Manipal Institute of Technology (MIT), Manipal
+M.Tech in Computer Science and Information Security | GPA: 8.20 / 10 (2015 – 2017)
+
+Srinivas School of Engineering, Mangalore
+B.Tech in Computer Science and Engineering | Score: 68.26% (2010 – 2014)
+
+ACHIEVEMENTS & CERTIFICATIONS
+* Graduate Aptitude Test in Engineering (GATE) Qualified – All India Rank (AIR): 9044
+* Vector Certified Embedded Associate (Autosar Classic Standards)
